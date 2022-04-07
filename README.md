@@ -5,4 +5,4 @@ I am trying my best to get daily repetition in to keep core concepts fresh in my
 
 ## Current Stats:
 Ranked - 6 kyu <br>
-Total Completed Kata - 43
+Total Completed Kata - 55
