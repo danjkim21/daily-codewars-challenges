@@ -15,6 +15,7 @@ function finalGrade (exam, projects) {
 function findDifference(a, b) {
   return Math.abs(a.reduce((acc, c) => acc * c) - b.reduce((acc, c) => acc * c)); 
 }
+
 // 8 Kyu Correct the mistakes of the character recognition software
 function correct(string) {
 	let newStr = string.replace(/5/g , 'S').replace(/0/g, 'O').replace(/1/g, 'I')
