@@ -1,5 +1,5 @@
 // 8 kyu How old will I be in 2099?
-function  calculateAge(a, b) {
+function  calculateAge( a, b ) {
   if (a - b === 0) {
     return 'You were born this very year!'
   } else if (a - b === 1) {
