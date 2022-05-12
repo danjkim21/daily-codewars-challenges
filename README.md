@@ -5,8 +5,8 @@ I am trying my best to get daily repetition in to keep core concepts fresh in my
 
 ## Current Stats:
 Rank - 5 kyu <br>
-Honor Percentile - Top 24.817% <br>
-Total Completed Kata - 150
+Honor Percentile - Top 19.799% <br>
+Total Completed Kata - 176
 
 
 ## Monthly Streak!
