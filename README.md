@@ -15,11 +15,12 @@ There is an endless supply of questions, and an even longer list of potential so
 ## 📊 Current Stats
 <p align="left">
   <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://www.codewars.com/users/danjkim21/badges/large" style="max-width: 100%;"></a>
-</p><br>
+</p>  
+
 Rank - 5 kyu <br>
-Honor Percentile - Top 16.141% <br>
-Honor - 520 <br>
-Total Completed Kata - 215 
+Honor Percentile - Top 14.974% 🎉 <br>
+Honor - 548 <br>
+Total Completed Kata - 222 
 <br>
 
 
