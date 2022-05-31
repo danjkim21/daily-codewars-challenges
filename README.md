@@ -24,13 +24,12 @@ Total Completed Kata - 222
 <br>
 
 
-
 ## 📆 Monthly Streak
 
 - [x] April, 2022
-- [ ] May, 2022
+- [x] May, 2022
+- [ ] June, 2022
 <br>
-
 
 
 ## 📞 Contact
