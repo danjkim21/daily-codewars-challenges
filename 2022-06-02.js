@@ -48,3 +48,19 @@ var cubeChecker = function (volume, side) {
 function integrate(coefficient, exponent) {
   return `${coefficient / (exponent + 1)}x^${exponent + 1}`;
 }
+
+// 8 kyu Man in the west
+function checkTheBucket(bucket) {
+  return bucket.includes('gold');
+}
+
+// 8 kyu Multiply the number
+function multiply(number) {
+  let exp = String(Math.abs(number)).length;
+  return number * 5 ** exp;
+}
+
+// 8 kyu Grasshopper - Order of operations
+function orderOperations() {
+  return (2 + 2) * (2 + 2) * 2;
+}
