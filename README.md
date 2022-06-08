@@ -18,9 +18,9 @@ There is an endless supply of questions, and an even longer list of potential so
 </p>  
 
 Rank - 5 kyu <br>
-Honor Percentile - Top 12.864% 🎉 <br>
-Honor - 600 <br>
-Total Completed Kata - 252
+Honor Percentile - Top 12.204% 🎉 <br>
+Honor - 618 <br>
+Total Completed Kata - 265
 <br>
 
 
@@ -29,7 +29,6 @@ Total Completed Kata - 252
 - [x] April, 2022
 - [x] May, 2022
 - [ ] June, 2022
-<br>
 
 
 ## 📞 Contact
