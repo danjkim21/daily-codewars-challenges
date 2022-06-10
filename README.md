@@ -1,5 +1,5 @@
 # 🚀 Daily Codewars Challenges
-This repository is where I save my daily coding challenge solutions from [Codewars.com](https://www.codewars.com/users/danjkim21). <br>
+This repository is where I save my daily coding challenge solutions from codewars.com. <br>
 
 I am trying my best to get daily repetition in to keep core concepts fresh in my head. I've committed to pushing at least 5 solutions every week. Every morning, the first thing I do is solve a Codewar! <br>
 
@@ -33,3 +33,7 @@ Total Completed Kata - 265
 
 ## 📞 Contact
 Daniel Kim - [@devdanielk](https://twitter.com/devdanielk) - dan.jkim21@gmail.com
+
+
+## 📌 Disclaimer
+I do not represent www.codewars.com nor am I affiliated with the organization and community. The solutions in this repository are of my own, and are only intended for developing my coding proficiency. 
